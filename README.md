@@ -5,6 +5,5 @@ Mikroişlemci ile frekans okuyup P katsayısına göre C3 çıkış sinyalinin �
 Reading frequency with microprocessor and generating C3 output signal according to P coefficient, showing the distance (trip and total km) on LCD screen.
 
 https://youtu.be/bycPdBEiuUk
-
 https://youtu.be/krX6uDhr7QQ
 
