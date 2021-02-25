@@ -6,5 +6,4 @@ Reading frequency with microprocessor and generating C3 output signal according 
 
 https://youtu.be/bycPdBEiuUk
 
-https://youtu.be/krX6uDhr7QQ
-
+https://youtu.be/CLt-tCoerjc
